@@ -76,8 +76,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 In this tutorial, you'll learn how to build a production-ready **Personalized AI Newsletter SaaS** using **Next.js**, **Supabase**, **OpenAI**, **Inngest**, and **TailwindCSS**. You'll implement **AI-powered content generation**, **scheduled newsletters**, **user preferences management**, and **email delivery**, all deployed to Vercel.
 
-🎥 Watch the full tutorial: [YouTube](https://youtu.be/YOUR_VIDEO_ID)
-
 ---
 
 ## ⚙️ Tech Stack
