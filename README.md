@@ -208,7 +208,7 @@ FOR EACH ROW EXECUTE FUNCTION public.set_updated_at();
 ### Clone and Run
 
 ```bash
-git clone https://github.com/yourusername/personalized-newsletter.git
+git clone 
 cd personalized-newsletter
 npm install
 ```
